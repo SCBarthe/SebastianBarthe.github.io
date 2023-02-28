@@ -1,0 +1,224 @@
+ 
+ 
+
+
+ h1{
+    color: grey;
+    font-weight: bold; 
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    font-size: 45px;
+    font-family: 'Roboto Mono', monospace;
+    
+
+  }
+
+  h2{
+
+    color: grey;
+    font-weight: bold; 
+    font-size: 35px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-family: 'Roboto Mono', monospace;
+
+
+  }
+
+  .info{
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+  }
+
+  .titulo{
+    position: relative;
+    margin-left: 1%;
+
+
+   }
+
+   .contenido{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   }
+
+   .parrafo{
+    position: inherit;
+    margin-left: 20%;
+    margin-right: 30%;
+
+   }
+
+   .barra{
+    margin-top: 20px;
+   }
+
+   .col-sm-3{
+
+    margin-left: 2%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 29px;
+    font-family: 'Roboto Slab', serif;
+   }
+
+      
+
+   .col-sm-9{
+    margin-left: 3%;
+   }
+
+   .col-sm-9 p{
+    font-size: 20px;
+    font-family: 'Roboto Serif', serif;
+   }
+
+
+
+
+
+ .colorprincipal{
+    color:black
+ }
+
+ 
+  html {
+    min-height: 100%;
+    position: relative;
+    
+  }
+
+
+  body {
+    margin: 10;
+    margin-bottom: 40px;
+    
+    
+  }
+  
+
+  contacto{
+    margin-left: 30%;
+    margin-right: 30%;
+
+
+  }
+
+  p5{
+    margin-left: 25%;
+    margin-right: auto;
+    font-style: initial;
+    color: darkslategrey;
+    font-weight: bolder;
+  }
+
+
+  .tituloformulario{
+
+    font-family: 'Roboto Slab', serif;
+    font-size: larger;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
+  /**.Email{
+
+    margin-right: 30%;
+  } */
+
+  .pie-pagina{
+    width: 100%;
+    background-color: darkgray;
+    
+    
+  }
+
+  .pie-pagina .boxgrande{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+
+   
+  }
+
+  .pie-pagina .boxgrande .box figure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-left: 5px;
+    padding: auto;
+    
+  
+  }
+
+  .pie-pagina .boxgrande .box figure img{
+    width: 200px; 
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+        
+  }
+
+  .pie-pagina .boxgrande .box figure label{
+    color:aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+  }
+
+  .pie-pagina .boxgrande .box h2{
+    color:indigo;
+    margin-bottom: 25px;
+    font-size: 20px;
+  }
+  
+  .pie-pagina .boxgrande .box p{
+    color: aliceblue;
+    margin-bottom: 10px;
+
+  }
+
+  .pie-pagina .boxgrande .red-social button {
+          
+    color: blue;
+
+  }
+
+  .container-fluid button{
+    margin-bottom: 3%;
+  }
+
+ /**
+  .container-fluid{
+    margin-right: 40%;
+  }
+  */
+
+  .pie-pagina .boxgrande .contactos button{
+    color: orangered;
+  }
+
+  .pie-pagina .boxgrande .contactos .email button {
+    color: beige;
+  }
+ 
+
+
+  
+
+ 
+
+
